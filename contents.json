@@ -42,8 +42,10 @@
         {"image_file": "24.webp", "emojis": ["😀"]},
         {"image_file": "25.webp", "emojis": ["😀"]},
         {"image_file": "en.webp", "emojis": ["😀"]}
-
-"identifier": "2",
+      ]
+    },
+    {
+      "identifier": "2",
       "name": "60 Stratégies Pack 2",
       "publisher": "60 Stratégies",
       "tray_image_file": "tray.png",
@@ -75,7 +77,6 @@
         {"image_file": "17.webp", "emojis": ["😀"]},
         {"image_file": "18.webp", "emojis": ["😀"]},
         {"image_file": "en.webp", "emojis": ["😀"]}
-        
       ]
     }
   ]
