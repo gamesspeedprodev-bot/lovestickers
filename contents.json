@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "60 Stratégies Pack 1",
+      "name": "Romantic",
       "publisher": "60 Stratégies",
       "tray_image_file": "tray.png",
       "publisher_email": "",
@@ -46,7 +46,7 @@
     },
     {
       "identifier": "2",
-      "name": "60 Stratégies Pack 2",
+      "name": "Love",
       "publisher": "60 Stratégies",
       "tray_image_file": "tray.png",
       "publisher_email": "",
