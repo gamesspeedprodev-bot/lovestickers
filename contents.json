@@ -65,8 +65,8 @@
         {"image_file": "5.webp", "emojis": ["😀"]},
         {"image_file": "8.webp", "emojis": ["😀"]},    
         {"image_file": "10.webp", "emojis": ["😀"]},
-        {"image_file": "11.webp", "emojis": ["😀"]},
-        {"image_file": "18.webp", "emojis": ["😀"]}
+        {"image_file": "11.webp", "emojis": ["😀"]}
+        
         
       ]
     },
